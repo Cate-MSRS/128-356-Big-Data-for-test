@@ -5,3 +5,9 @@ include/
 lib/
 share/
 pyvenv.cfg
+
+# Lab Generated Data
+*.csv
+*.parquet
+lakehouse/
+bad_partitioning/
