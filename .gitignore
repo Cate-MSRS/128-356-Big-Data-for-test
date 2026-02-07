@@ -12,3 +12,6 @@ pyvenv.cfg
 lakehouse/
 bad_partitioning/
 agent.md
+
+# Solutions
+Online_Retail_Week3_Solution.ipynb
